@@ -12,3 +12,5 @@ export default function RootLayout({
     </html>
   );
 }
+
+export const experimental_ppr = true;
